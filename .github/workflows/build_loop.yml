@@ -255,9 +255,9 @@ jobs:
           future_carbs_4h \
           high_carb_limit \
           override_sens \
-          lnl_icon \
-          watch_title\
           now_line \
+          lnl_icon \
+          watch_title \
           meal_days \
           profiles \
           basal_lock \
